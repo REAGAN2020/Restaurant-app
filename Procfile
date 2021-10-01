@@ -1,0 +1,1 @@
+web: gunicorn JoesPlateProject.wsgi --log-file -
